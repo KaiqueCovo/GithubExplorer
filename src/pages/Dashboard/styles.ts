@@ -79,6 +79,7 @@ export const Repositories = styled.div`
 
     div {
       margin-left: 16px;
+      flex: 1;
 
       strong {
         font-size: 20px;
@@ -93,7 +94,7 @@ export const Repositories = styled.div`
     }
 
     svg {
-      margin-left: auto;
+      margin-left: 20px;
       color: #cbcbd6;
     }
   }
